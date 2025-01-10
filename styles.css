@@ -7,3 +7,17 @@
 section img {
     width: 400px;
 }
+
+#section-2 {
+    line-height: 2px;
+}
+
+#section-2 input {
+    margin: 0;
+}
+
+#section-2 textarea {
+    width: 500px;
+    height: 100px;
+    margin-bottom: 20px;
+}
